@@ -1,67 +1,60 @@
 ---
-templateKey: 'home-page'
-title: Gatsby Starter Business
-meta_title: Home | Gatsby Starter Business
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
-heading: Lorem ipsum dolor sit amet
-description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+templateKey: home-page
+title: Live 4 Love
+heading: Encourage the warmth
+description: Let your front door give a first impression
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/welcomecats.svg
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae tincidunt ut, 
-        scelerisque eu sem. Etiam porttitor elit eget mi luctus, vitae blandit enim pretium. 
-        Aenean nec hendrerit leo, a bibendum magna. In hac habitasse platea dictumst. 
-        Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam 
-        sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi. 
-        Nullam et dui interdum, varius nibh eu, efficitur metus.
-    - image: /img/coffee-gear.png
+        Why does everyone leave the front door so PLAIN? Learn innovative ways
+        to express your personality and stand out to your visitors with a few
+        easy changes. Don't have time? Check out the "Collection" page for my
+        personal help!
+    - image: /img/worldismine.svg
+      text: >-
+        With 2020 giving the middle finger to happiness, it's time to start
+        fighting back! Scroll through my personal experiences during the
+        pandemic of keeping my 3 children and "other half" in check during
+        global lock-down, while still building my business and staying creative.
+        Then stay tuned for my take on SELF HELP: "Gaining Success In Doses"
+    - image: /img/creativeprocess.svg
       text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
-        ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
-        neque id mauris accumsan, nec imperdiet justo eleifend. Nulla viverra, ipsum 
-        sit amet interdum pharetra, felis lorem sollicitudin felis, vehicula finibus 
-        enim nunc facilisis sapien. Donec nulla nisi, dictum quis nibh et, euismod 
-        semper eros. Praesent nunc tortor, consequat eu justo ac, dictum viverra enim. 
-        Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel 
-        vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
-    - image: /img/tutorials.png
+        Have questions? Head over to the Contact Page and ASK AWAY! Want to
+        purchace an item? Don't like the way something on my site looks? Have a
+        suggestion? Want me to make a video tutorial? Anything goes! Just say
+        hi, and I will reply. My passion for community and creativity is one of
+        my main inspirations for this site is being launched! 
+    - image: /img/micdrop.svg
       text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin 
-        pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu 
-        pharetra orci, ut malesuada nisl. Aliquam erat volutpat. Curabitur egestas eros tincidunt, 
-        scelerisque lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla. Aliquam 
-        erat volutpat. Vivamus ultrices venenatis maximus. Donec volutpat vitae quam at fringilla. 
-        Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum 
-        non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula, 
-        quam augue pretium erat, at commodo nisl tellus non risus.
-    - image: /img/meeting-space.png
-      text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus 
-        sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper 
-        venenatis molestie ut mi. Duis vel libero ac lectus cursus tempus. Nullam in dictum felis. 
-        Nam sed laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac scelerisque nisi 
-        sodales. Cras tristique laoreet tempor. Mauris vitae dolor eu mauris malesuada cursus. 
-        Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus. Suspendisse potenti. 
-        In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor 
-        risus.
+        This site itself is a "salute" to DIY, with my husband (his career
+        revolves around building web applications, but on a larger scale)
+        donating his time to help me make my dreams of reaching like-minded
+        individuals organically and creating a hub for helping others into a
+        reality. The amount of small print and "scammy" solutions to even start
+        blogging or selling your small "idea" has taught me so much. And now I
+        want to help anyone that has similar ambitions of having any type of
+        "online presence" to start out with 100% certainty that YOU are in
+        control. Money should not be a thought just to TRY. Not only will you
+        launch a website to start posting and selling right away, but you will
+        have a collection of articles to help understand many concepts that I
+        wish would have been included with many situations that I needed
+        guidance with. It's not okay to have a dream and NOT be heard anymore.
+        Let me shine a light on your future!
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
-      Sed quis egestas libero. Vestibulum nec venenatis ligula. 
+      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
+      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
+      ligula. 
   - author: Subarashi San
     quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
+      dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
+      elit.
+meta_title: Home | Live 4 Love
+meta_description: >-
+  Custom Designs and home of "Hectic Life" Musings of a Mother who knows what
+  moms are capable of... (Happiness AND success)
 ---
+
